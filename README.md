@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Salomon 👋
 
-<!--
-**fobahsalomon/fobahsalomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at the **African School of Economics** (Abidjan) — I build ML pipelines, data analysis tools, and end-to-end Python projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📌 Featured projects
+
+| Project | Description |
+|---|---|
+| [cocody-rental-market-analysis](https://github.com/fobahsalomon/cocody-rental-market-analysis) | Hedonic pricing model on Abidjan's rental market — regression, bilingual report |
+| [time-series-sarima-forecasting](https://github.com/fobahsalomon/time-series-sarima-forecasting) | SARIMA forecasting on UK car sales — Box-Jenkins methodology, full PDF report |
+| [SurveyLens](https://surveylens.streamlit.app) | Live survey analytics platform — automated insights & visualizations |
+
+---
+
+### 📊 GitHub stats
+
+![Salomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=fobahsalomon&show_icons=true&hide_border=true&count_private=true&theme=default)
+
+---
+
+📍 Abidjan, Côte d'Ivoire  ·  🎓 B3 Data Science @ ASE
