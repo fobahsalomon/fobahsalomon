@@ -27,8 +27,7 @@ Data Science student at the **African School of Economics** (Abidjan) — I buil
 
 ### 📊 GitHub stats
 
-![Salomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=fobahsalomon&show_icons=true&hide_border=true&count_private=true&theme=default)
-
+![GitHub streak](https://streak-stats.demolab.com?user=fobahsalomon&hide_border=true&theme=default)
 ---
 
 📍 Abidjan, Côte d'Ivoire  ·  🎓 B3 Data Science @ ASE
